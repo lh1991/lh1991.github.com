@@ -12,14 +12,14 @@ kramdown:
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
-title : Jekyll Materiallize
+title :衡行天下
 tagline: Site Tagline
 lang: en
 footerDetail: true
 author :
   name : Liu Heng
   avatar : false
-  introduction : "A brief introduction should be placed here, in order to make the author known well to the reader"
+  introduction : "追求的脚步应该像时间一样，只能进不能退。"
   email : 905503037@qq.com
   github : lh1991
   twitter : username
