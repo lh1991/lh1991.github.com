@@ -12,7 +12,7 @@ kramdown:
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
-title :hello 
+title :Hello 
 tagline: Site Tagline
 lang: en
 footerDetail: true
