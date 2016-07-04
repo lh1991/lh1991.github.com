@@ -17,11 +17,11 @@ tagline: Site Tagline
 lang: en
 footerDetail: true
 author :
-  name : Name Lastname
+  name : Liu Heng
   avatar : false
   introduction : "A brief introduction should be placed here, in order to make the author known well to the reader"
-  email : user@email.test
-  github : username
+  email : 905503037@qq.com
+  github : lh1991
   twitter : username
   gitcafe: username
   weibo : weiboID
@@ -35,7 +35,7 @@ author :
 # Else if you are pushing to username.github.io, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
-production_url : http://username.github.io
+production_url : http://lh1991.github.io
 
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
@@ -50,14 +50,14 @@ JB :
   #   DO NOT SET BASE_PATH
   #   (urls will be prefixed with "/" and work relatively)
   #
-  # GitHub Pages (http://username.github.io)
+  # GitHub Pages (http://lh1991.github.io)
   #   DO NOT SET BASE_PATH
   #   (urls will be prefixed with "/" and work relatively)
   #
-  # GitHub Project Pages (http://username.github.io/project-name)
+  # GitHub Project Pages (http://lh1991.github.io/project-name)
   #
   #   A GitHub Project site exists in the `gh-pages` branch of one of your repositories.
-  #  REQUIRED! Set BASE_PATH to: http://username.github.io/project-name
+  #  REQUIRED! Set BASE_PATH to: http://lh1991.github.io/project-name
   #
   # CAUTION:
   #   - When in Localhost, your site will run from root "/" regardless of BASE_PATH
