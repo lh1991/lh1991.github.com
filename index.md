@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Home
-tagline: The most popular papers
+title: 首页
+tagline: 衡行天下
 group: navigation
 position: 1
 ---
